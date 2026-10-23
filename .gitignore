@@ -1,0 +1,12 @@
+# Things the lessons create on your computer. They don't belong in git.
+output/
+models/*.task
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
