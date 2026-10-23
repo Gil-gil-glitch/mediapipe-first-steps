@@ -48,8 +48,8 @@ on, then quit and reopen the terminal.
 From the repository folder, with the virtual environment active:
 
 ```bash
-python lessons/part1_opencv/01_open_camera.py
-python lessons/part1_opencv/01_open_camera.py --help    # see all options
+python lessons/part1_opencv/open_camera.py
+python lessons/part1_opencv/open_camera.py --help    # see all options
 ```
 
 Press **q** (or Esc) in the video window to quit.
